@@ -10,7 +10,7 @@ import Contact from '../components/Contact.vue';
   <div class="relative font-Poppins">
     <Navbar />
     <div class="flex flex-col flex-wrap absolute">
-      <img class=" image" src="/Mask Group 4.svg">
+      <img class="image" src="/MaskGroup4.svg">
       <section class="flex flex-col gap-5 mt-0 absolute z-10 top-40 font-Poppins">
       <p class="text-5xl w-2/3">
         Lorem Ipsum is simply dummy text of the printing and typesetting.
