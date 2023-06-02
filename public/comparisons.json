@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "country":"United States",
+        "progress":93,
+        "url":"../../public/usa.svg"
+    },
+    {
+        "id":2,
+        "country":"Italy",
+        "progress":73,
+        "url":"/italy.svg"
+    },
+    {
+        "id":3,
+        "country":"Spain",
+        "progress":13,
+        "url":"/spain.svg"
+    }
+]

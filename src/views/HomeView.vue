@@ -1,15 +1,15 @@
 <script setup>
-import Navbar from './Navbar.vue';
-import About from './About.vue'
-import Services from './Services.vue'
-import CoreTech from './CoreTech.vue';
-import Contact from './Contact.vue';
+import Navbar from '../components/Navbar.vue';
+import About from '../components/About.vue'
+import Services from '../components/Services.vue'
+import CoreTech from '../components/CoreTech.vue';
+import Contact from '../components/Contact.vue';
 </script>
 
 <template>
   <div class="relative font-Poppins">
     <Navbar />
-    <div class="flex flex-col flex-wrap relative">
+    <div class="flex flex-col flex-wrap absolute">
       <img class=" image" src="/Mask Group 4.svg">
       <section class="flex flex-col gap-5 mt-0 absolute z-10 top-40 font-Poppins">
       <p class="text-5xl w-2/3">
@@ -23,9 +23,8 @@ import Contact from './Contact.vue';
     <About/>
     <Services/>
     <CoreTech/>
-    <Contact/>
   </div>
-  </div>
+</div>
 </template>
 
 <style scoped>

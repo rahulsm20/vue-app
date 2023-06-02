@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="p-5 font-Poppins static bottom-0">
+  <div class="p-5 font-Poppins relative footer mt-96 " style="background-image: url();">
     <img class="absolute bottom-0" src="/Group 35686.svg"/>
     <img class="absolute bottom-0" src="/Path 37456.svg"/>
     <div class="text-black">

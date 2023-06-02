@@ -14,7 +14,7 @@
         <li><a>Case studies</a></li>
         <li><a>Testimonials</a></li>
         <li><a>Contact</a></li>
-        <a class="btn bg-white btn-ghost normal-case text-black">Login</a>
+        <a class="btn bg-white btn-ghost normal-case text-black" href="/login">Login</a>
       </ul>
     </div>
   </div>

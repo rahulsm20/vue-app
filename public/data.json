@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "country":"Italy",
+        "profit":475,
+        "change":"/graphs/upvote.png",
+        "graph":"/graphs/blueGraph.png"
+    },
+    {
+        "id":2,
+        "country":"United States",
+        "profit":431,
+        "change":"/graphs/upvote.png",
+        "graph":"/graphs/blueGraph.png"
+    },
+    {
+        "id":3,
+        "country":"Canada",
+        "profit":174,
+        "change":"/graphs/downvote.png",
+        "graph":"/graphs/redGraph.png"
+    },
+    {
+        "id":4,
+        "country":"Spain",
+        "profit":475,
+        "change":"/graphs/upvote.png",
+        "graph":"/graphs/blueGraph.png"
+    },
+    {
+        "id":5,
+        "country":"Japan",
+        "profit":134,
+        "change":"/graphs/upvote.png",
+        "graph":"/graphs/greenGraph.png"
+    },
+    {
+        "id":6,
+        "country":"South Africa",
+        "profit":471,
+        "change":"/graphs/downvote.png",
+        "graph":"/graphs/redGraph.png"
+    }
+]

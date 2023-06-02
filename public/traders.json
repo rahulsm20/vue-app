@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "trader":"Andrew Johnston",
+        "badge":"Top Trader",
+        "url":"/headshots/headshot1.png"
+    },
+    {
+        "id":2,
+        "trader":"Anna Atkinsons",
+        "badge":"Manager",
+        "url":"/headshots/headshot2.png"
+    },
+    {
+        "id":3,
+        "trader":"Mark Atkinsons",
+        "badge":"Top Trader",
+        "url":"/headshots/headshot3.png"
+    },
+    {
+        "id":4,
+        "trader":"Johanna Tairons",
+        "badge":"Manager",
+        "url":"/headshots/headshot4.png"
+    }
+]
