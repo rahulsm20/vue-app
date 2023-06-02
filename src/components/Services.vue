@@ -18,17 +18,17 @@
       </div>
       <div class="flex flex-col gap-5 top-96 left-2/4 z-10 mt-96 absolute text-black shadow-xl p-4 rounded-2xl border-2">
         <section class="flex align-middle justify-center ">
-          <img src="/Group 35621.svg"/>
+          <img src="/Group35621.svg"/>
           <p class="text-4xl font-semibold mt-5 p-2 ms-2">UI/UX Designing</p>
         </section>
         <p>
           Lorem ipsum dolor sit amet, conse ctetur adipi scing elit. Aliq uam ex odio, is the turpis accu msan congue euisque blandit dui Pelle ntesque habitant.
         </p>
         <ul class="flex flex-col gap-5">
-          <li class="flex align-middle justify-center gap-2"><img src="/Group 35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
-          <li class="flex align-middle justify-center gap-2"><img src="/Group 35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
-          <li class="flex align-middle justify-center gap-2"><img src="/Group 35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
-          <li class="flex align-middle justify-center gap-2"><img src="/Group 35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
+          <li class="flex align-middle justify-center gap-2"><img src="/Group35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
+          <li class="flex align-middle justify-center gap-2"><img src="/Group35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
+          <li class="flex align-middle justify-center gap-2"><img src="/Group35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
+          <li class="flex align-middle justify-center gap-2"><img src="/Group35604.svg"/>Lorem ipsum dolor sit amet, conse ctetur adipi scing elit.</li>
         </ul>
       </div>
       <div class="bg-[#0E77FF] -right-32 w-56 p-64 mt-96 backdrop-blur-xl z-20 opacity-70 absolute top-80"></div>

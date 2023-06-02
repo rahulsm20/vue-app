@@ -3,7 +3,7 @@
 
 <template>
   <div class="relative p-5 font-Poppins">
-    <img class="-left-[670px] top-40 absolute bg-white" src="/Group 35699.svg">
+    <img class="-left-[670px] top-40 absolute bg-white" src="/Group35699.svg">
     <section class="flex flex-col gap-5 mt-0 absolute z-10 top-80 text-justify text-black left-2/4">
         <p class="text-2xl w-2/3 text-blue-400">
             ABOUT US

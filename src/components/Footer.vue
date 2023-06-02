@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <img class="footer" src="/Path 37456.svg"/>
+    <img class="footer" src="/Path37456.svg"/>
 
 </template>
 

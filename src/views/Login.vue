@@ -8,7 +8,7 @@ const handleSubmit = ()=>{
 
 <template>
 <section class="relative font-Poppins">
-    <img class="-left-[760px] absolute bg-white z-0" src="/Group 35699.svg">
+    <img class="-left-[760px] absolute bg-white z-0" src="/Group35699.svg">
     <form class="flex flex-col text-black gap-5 w-80 z-10 justify-center top-40 left-96 ms-96 absolute" @submit="$event=>handleSubmit()">
         <h2 class="text-2xl font-semibold">Login to access dashboard</h2>
         <label for="email" class="flex items-center font-semibold"> Email <sup class="text-red-500">*</sup></label>
